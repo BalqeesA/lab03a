@@ -1,0 +1,16 @@
+header nav ul{
+    list-style: none;
+
+}
+
+header nav ul li {
+    display : inline-block;
+    padding: 20px;
+
+}
+h1 {
+    text-align: center;
+}
+
+header {background-color: rgb(235, 196, 113);}
+header img {width: 20%;margin-left: 40%;}
